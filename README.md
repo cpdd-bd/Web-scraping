@@ -13,7 +13,7 @@ From several aspects:
 
 1. **Customer Sentiment Analysis**: Scraping review data allows to analyze customer opinions and sentiments, providing valuable insights into customer satisfaction and expectations.
 2. **Predictive Decision-Making**: By leveraging trends in ratings and reviews, can forecast future customer behaviors, identify potential areas of improvement.
-3. **Market Research: Researchers**: The data can use to study consumer behavior, preferences, and industry trends, contributing to broader market analysis.
+3. **Market Research**: The data can be used to study consumer behavior, preferences, and industry trends, contributing to broader market analysis.
 
 This makes the project valuable across various fields, including business, technology, and social research.
 
